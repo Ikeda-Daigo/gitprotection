@@ -1,5 +1,5 @@
 # 単体ファイルの所有者指定
-/js/index.js @Ikeda-Daigo
+/js/ @Ikeda-Daigo
 
 # 特定フォルダへの所有者指定
-/html @Ikeda-Daigo
+/html/ @Ikeda-Daigo
